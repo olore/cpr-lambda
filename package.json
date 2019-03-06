@@ -11,6 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "micro": "^9.3.3"
+    "micro": "^9.3.3",
+    "retext-english": "^3.0.2",
+    "retext-sentiment": "^4.1.1",
+    "tmp": "0.0.33",
+    "to-vfile": "^5.0.2",
+    "unified": "^7.1.0"
   }
 }
